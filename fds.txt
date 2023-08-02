@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sdfs
 sgdsgd
+=======
+kjdsf
+sfdsdf
+>>>>>>> 43a088f02116f84e4eac9285715bc22b2c2ee8f3
